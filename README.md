@@ -19,4 +19,4 @@ Analyse d'une base de données musicale avec SQL et Python.
 Projet d'exploration de données avec visualisation et requêtes SQL.
 
 ## URL du projet (raodmap.sh)
-https://roadmap.sh/projects/clean-csv
+https://roadmap.sh/projects/querying-sql-python

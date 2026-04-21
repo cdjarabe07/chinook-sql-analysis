@@ -8,6 +8,7 @@ Analyse d'une base de données musicale avec SQL et Python.
 - SQLite
 - Pandas
 - Matplotlib
+- Jupyter Notebook
 
 ## Analyse réalisée
 - Top 10 des titres les plus vendus

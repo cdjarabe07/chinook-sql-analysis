@@ -88,13 +88,13 @@ chinook-sql-analysis/
 ├── data/
 │   └── Chinook_Sqlite.sql
 │
-├── db/
-│   └── chinook.db (optionnel, généré automatiquement)
-│
 ├── notebooks/
 │   └── analysis.ipynb
 │
 └── README.md
+│
+│
+├── requirements.txt
 ```
 
 ### Lien du projet GitHub
